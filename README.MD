@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inbhu7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibhhu7&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
 
 ## 🌐 Connect
 
-* 🧑‍💻 GitHub: https://github.com/inbhu7
+* 🧑‍💻 GitHub: https://github.com/ibbhu7
 
 ---
 
