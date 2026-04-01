@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Inbhu7
+# 👋 Hey, I'm ibhub7
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=FastAPI+Developer;Bot+Automation+Builder;MongoDB+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=45">
@@ -61,7 +61,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inbhu7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibhub7&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbhu7&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhub7&layout=compact&theme=tokyonight" />
 </p>
 
 ---
