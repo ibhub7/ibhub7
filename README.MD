@@ -110,6 +110,19 @@
 </p>
 
 ---
+## 🔝 ***Top Contributed Repo***
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ibhub7&limit=8&theme=radical&combine_all_yearly_contributions=true" height="260" />
+</p>
+
+---
+
+## 🏆 ***GitHub Trophies*** 
+
+<p align="center">
+  <img src="https://github-profile-repo.vercel.app/?username=ibhub7&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" height="800"/>
+</p>
+
 
 ## 🌐 Connect
 
