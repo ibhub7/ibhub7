@@ -15,6 +15,44 @@
 
 ---
 
+## 🚀 Deploy This Project
+
+<p align="center">
+
+<a href="https://heroku.com/">
+  <img src="https://img.shields.io/badge/Deploy-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</a>
+
+<a href="https://koyeb.com/">
+  <img src="https://img.shields.io/badge/Deploy-Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white">
+</a>
+
+<a href="https://render.com/">
+  <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
+</a>
+
+<a href="https://seenode.com/">
+  <img src="https://img.shields.io/badge/Deploy-Seenode-000000?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://vercel.com/">
+  <img src="https://img.shields.io/badge/API-Vercel-000000?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://cloudflare.com/">
+  <img src="https://img.shields.io/badge/API-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+</a>
+
+<a href="https://railway.app/">
+  <img src="https://img.shields.io/badge/API-Railway-0B0D0E?style=for-the-badge&logo=railway">
+</a>
+
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -25,7 +63,6 @@
 ### ⚙️ Backend & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 
 ### 🗄️ Database
@@ -38,22 +75,22 @@
 
 ### 🔥 Bot Monitoring System
 
-> Advanced system to manage and monitor multiple bots
+> Advanced system to manage multiple bots
 
-* ⚡ Async architecture (high performance)
-* 📡 Real-time bot status tracking
-* 🧠 MongoDB-based scheduling
-* 🛠️ Centralized control system
+* ⚡ Async architecture
+* 📡 Real-time tracking
+* 🧠 MongoDB scheduler
+* 🛠️ Centralized control
 
 ---
 
 ### 📊 Web Dashboard
 
-> Clean dashboard for managing bots & user configs
+> Manage bots & configs
 
-* 🎨 Jinja2 templating
-* 📱 Responsive UI
-* 🔐 User-based configuration system
+* 🎨 Jinja2 UI
+* 📱 Responsive
+* 🔐 User configs
 * ⚙️ FastAPI backend
 
 ---
@@ -74,15 +111,6 @@
 
 ---
 
-## 🧩 Current Focus
-
-* ⚡ Scaling bot systems
-* 🔄 Improving async performance
-* 🌐 Building full-stack dashboards
-* 📦 Clean architecture & code structure
-
----
-
 ## 🌐 Connect
 
 * 🧑‍💻 GitHub: https://github.com/ibhub7
@@ -92,4 +120,3 @@
 ## ⚡ Quote
 
 > "Automate everything. Optimize everything." 🚀
-> "I automate things so I don’t have to do them twice" 😄
