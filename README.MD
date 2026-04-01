@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=FastAPI+Developer;Bot+Automation+Builder;MongoDB+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
-
+  <img align="right" src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/dev.png" width="460" />
 ---
 
 ## 🧠 About Me
