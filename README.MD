@@ -1,5 +1,7 @@
 # 👋 Hey, I'm ibhub7
 
+  ![](https://komarev.com/ghpvc/?username=ibhub7&label=Profile%20Views&color=000000&style=plastic)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=FastAPI+Developer;Bot+Automation+Builder;MongoDB+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
